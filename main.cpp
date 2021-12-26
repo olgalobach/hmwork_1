@@ -1,3 +1,4 @@
+// Ольга Лобач. ИУ8-13. ДЗ 2. Вариант 12
 #include <iostream>
 #include <fstream>
 #include <string>
